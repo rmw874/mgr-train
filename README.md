@@ -1,6 +1,6 @@
 # Ship Logbook Digitization Pipeline
 
-This project implements an end-to-end pipeline for digitizing historical ship logbooks, achieving 86.7% accuracy in extracting and transcribing tabular entries.
+This project implements an end-to-end pipeline for digitizing historical ship logbooks, achieving 92.3% accuracy in extracting and transcribing tabular entries.
 
 ## Features
 
